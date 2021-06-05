@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nispaksh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Bruh
+- 💞️ I’m looking to collaborate on Brakeys
 - 📫 How to reach me nirnayjr@gmail.com
 
 <!---
